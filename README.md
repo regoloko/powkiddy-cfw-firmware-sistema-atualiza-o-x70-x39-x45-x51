@@ -10,7 +10,8 @@ https://youtube.com/shorts/YwK1iC9ynG8?feature=share
 Arquivos
 
 Update.zip
- arquivo danificado vou pastar novamente.
+ https://www.mediafire.com/file/jpg9u9m6aw2r5j7/update.zip/file 
+
 Text
 https://www.mediafire.com/file/tgkdkjjkd92ounz/%25E4%25BD%25BF%25E7%2594%25A8TF%25E5%258D%25A1%25E8%25BF%259B%25E8%25A1%258C%25E7%2583%25A7%25E5%25BD%2595%25E6%25AD%25A5%25E9%25AA%25A4.txt/file
 
