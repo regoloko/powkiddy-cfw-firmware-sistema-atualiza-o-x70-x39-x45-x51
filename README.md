@@ -6,6 +6,13 @@ Vídeos
 https://vm.tiktok.com/ZMYHD26aY/
 https://youtube.com/shorts/YwK1iC9ynG8?feature=share
 
+Português:
+Se quiser ajudar a fazer uma customização do firmware para o console só entra no link abaixo do Reddit 
+
+Inglês:
+there is a guy trying to customize the firmware, if you want to help you can go to his post on Reddit.  
+
+https://www.reddit.com/r/SBCGaming/comments/11v9qen/want_to_partner_on_powkiddy_x39x45x51x70_cfw_here/
 
 Arquivos
 
@@ -67,9 +74,6 @@ Tip: If the power of the machine is insufficient, the programming will fail due 
 
 
 Consejo: si la potencia de la máquina es insuficiente, la programación fallará debido a una fuente de alimentación insuficiente.Conecte la fuente de alimentación tipo c antes de programar;
-
-
-
 
  -> apagado de la máquina
  -> Coloque la copia de update.zip en la tarjeta TF (no es necesario descomprimir el update.zip; hay otros archivos en la tarjeta TF y no la afectará, simplemente coloque update.zip en el directorio raíz de la tarjeta TF)
