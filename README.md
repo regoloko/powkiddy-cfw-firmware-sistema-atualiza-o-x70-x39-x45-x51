@@ -20,6 +20,10 @@ Update.zip x39
  https://www.mediafire.com/file/jpg9u9m6aw2r5j7/update.zip/file 
 Update.zip x70 atualização para x70
 https://www.mediafire.com/file/xnb5uqx2rl91q6f/X70+固件.zip/file
+Upadate.zip x51
+https://www.mediafire.com/file/0gryilqm1wjjeov/X51+固件+-+复件(1).zip/file
+Upadate.zip x45
+.......
 
 Text
 https://www.mediafire.com/file/tgkdkjjkd92ounz/%25E4%25BD%25BF%25E7%2594%25A8TF%25E5%258D%25A1%25E8%25BF%259B%25E8%25A1%258C%25E7%2583%25A7%25E5%25BD%2595%25E6%25AD%25A5%25E9%25AA%25A4.txt/file
@@ -32,12 +36,10 @@ Official powkiddy files of the update I hope with this file I can make a modifie
 Archivos oficiales powkiddy de la actualización espero con este archivo poder hacer un cfw de firmware modificado.
 
 
-
 Tutorial para atualizar com esse arquivo.
 Tutorial para actualizar con este archivo.
 Tutorial for updating with this file.
 Учебник по обновлению с помощью этого файла.
-
 
 
  -> desligamento da máquina
@@ -52,7 +54,6 @@ Tutorial for updating with this file.
 提示：机器电量不足，会导致烧录供电不足烧录失败，请插上type-c电源再进行烧录；
 
 
-
 ->机器关机
 ->把update.zip拷贝放到TF卡中（update.zip无需解压；TF卡内有其他文件也无影响，将update.zip放入TF卡的根目录即可）
 
@@ -62,7 +63,6 @@ Tutorial for updating with this file.
 
 
 Tip: If the power of the machine is insufficient, the programming will fail due to insufficient power supply. Please plug in the type-c power supply before programming;
-
 
 
  -> machine shutdown
